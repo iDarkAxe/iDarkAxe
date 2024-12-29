@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS and Javascript<br>
+🌱 I’m currently learning advanced C in 42 Lyon<br>
 💬 Ask me about my repositories<br>
 ⚡ Fun fact : I waited 3 years to start using Github
 
