@@ -1,6 +1,6 @@
 # 💫 About Me #
 
-🌱 I’m currently learning advanced C, C++ and Rust at 42 Lyon  
+🌱 I’m currently learning advanced C and C++ at 42 Lyon  
 💬 Ask me about my repositories  
 ⚡ All my repositories are documented as much as I can  
 
